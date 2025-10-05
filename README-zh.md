@@ -7,6 +7,7 @@
 
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/your-extension-id?label=Chrome%20Web%20Store&style=flat-square)](https://chrome.google.com/webstore/detail/pnobdlbfobamledoecdignpneeoohhio)
 
+> [!TIP]
 > [Acquire Language](https://chrome.google.com/webstore/detail/pnobdlbfobamledoecdignpneeoohhio) 目前尚未开源。本仓库仅用于介绍和反馈。您可以通过 GitHub Issues 报告问题或提出新功能建议。
 
 ## 概述

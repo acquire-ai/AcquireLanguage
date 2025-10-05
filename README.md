@@ -7,6 +7,7 @@
 
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/your-extension-id?label=Chrome%20Web%20Store&style=flat-square)](https://chrome.google.com/webstore/detail/pnobdlbfobamledoecdignpneeoohhio)
 
+> [!TIP]
 > [Acquire Language](https://chrome.google.com/webstore/detail/pnobdlbfobamledoecdignpneeoohhio) is not open source currently. This repository is for introduction and feedback. You can use github issues to report bugs or suggest new features.
 
 ## Overview
